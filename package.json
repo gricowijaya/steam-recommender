@@ -1,0 +1,22 @@
+{
+  "name": "steam-recommender",
+  "version": "1.0.0",
+  "description": "Steam Recommender is basically the bot for providing the game notification into the discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gricowijaya/steam-recommender.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "gricowijaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gricowijaya/steam-recommender/issues"
+  },
+  "homepage": "https://github.com/gricowijaya/steam-recommender#readme"
+}
